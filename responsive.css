@@ -1,0 +1,39 @@
+@media screen and (max-width :800px){
+   body{
+       background-color: grey;
+       height: 1024px;
+   }
+   main{
+       height: 1200px;
+   }
+   .container{
+       justify-content: center;
+       height: 65px;
+   }
+   .container1{
+       height: 220px;
+   }
+
+   .container2{
+    height: 480px;
+}
+
+.container3{
+    height: 550px;
+}
+footer{
+       justify-content: center;
+       
+   }
+}
+@media screen and (max-width :400){
+   
+   nav ul li{
+    padding: 15px;
+    
+   }
+   main{
+       width: 100vw;
+   }
+
+}
